@@ -1,2 +1,2 @@
-# WordpressGuide
+# Wordpress Guide
 Wordpress
