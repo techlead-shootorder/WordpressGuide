@@ -27,10 +27,10 @@ Two Option
         ### Site Kit shows key metrics and insights from different Google products:
 
        - Search Console: Understand how Google Search discovers and displays your pages in Google Search. Track how many people  saw your site in Search results, and what query they used to search for your site.
-    Analytics: Explore how users navigate your site and track goals you’ve set up for your users to complete.
-    AdSense: Keep track of how much your site is earning you.
-    PageSpeed Insights: See how your pages perform compared to other real-world sites. Improve performance with actionable tips from PageSpeed Insights.
-    Tag Manager: Use Site Kit to easily set up Tag Manager- no code editing required. Then, manage your tags in Tag Manager.
+        - Analytics: Explore how users navigate your site and track goals you’ve set up for your users to complete.
+        - AdSense: Keep track of how much your site is earning you.
+        - PageSpeed Insights: See how your pages perform compared to other real-world sites. Improve performance with actionable tips from PageSpeed Insights.
+        - Tag Manager: Use Site Kit to easily set up Tag Manager- no code editing required. Then, manage your tags in Tag Manager.
 
 
 
