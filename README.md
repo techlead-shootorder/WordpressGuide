@@ -3,9 +3,9 @@ Wordpress
 
 ## Hosting
 
-Godaddy -  Managed Wordpress Hosting
-Cpanel
-Hostinger -Managed Wordpress Hosting
+- Godaddy -  Managed Wordpress Hosting
+- Cpanel
+- Hostinger -Managed Wordpress Hosting
 
 ## Wordpress Installation
 
